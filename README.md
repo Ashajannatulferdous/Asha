@@ -1,3 +1,3 @@
 # Jannatul Ferdous Asha Portfolio
 
-Professional portfolio website for Jannatul Ferdous Asha.
+Professional portfolio built with the DevFolio Bootstrap template.
